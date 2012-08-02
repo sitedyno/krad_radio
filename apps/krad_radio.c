@@ -12,7 +12,7 @@ void krad_radio_command_help () {
 	printf ("\n");
 	printf ("transmitter_on transmitter_off closedisplay display lstext rmtext addtest lssprites addsprite rmsprite");
 	printf ("\n");
-	printf ("setsprite comp res snap setport update play recieve record capture");
+	printf ("setsprite comp res snap setport update play receive record capture");
 	printf ("\n");
 }
 
